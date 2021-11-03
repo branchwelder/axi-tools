@@ -1,12 +1,15 @@
-axicli==3.0.2
-axidrawinternal @ https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip
+axicli @ https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip
 certifi==2021.10.8
 charset-normalizer==2.0.7
+colorama==0.4.4
+commonmark==0.9.1
 future==0.18.2
 idna==3.3
 ink-extensions==1.1.0
 lxml==4.6.4
 plotink==1.3.1
+Pygments==2.10.0
 pyserial==3.5
 requests==2.26.0
+rich==10.12.0
 urllib3==1.26.7
