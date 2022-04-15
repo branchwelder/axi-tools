@@ -1,0 +1,18 @@
+locations:
+  black:
+    diameter: 1
+    x: 0.3998523622047243
+    y: 0.7000492125984252
+    z: 26
+  paper: null
+  red:
+    diameter: 1
+    x: 5
+    y: 5
+    z: 22
+  water:
+    diameter: 1
+    x: 4.0
+    y: 1.0999015748031482
+    z: 90
+name: waterland

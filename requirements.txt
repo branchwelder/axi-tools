@@ -1,15 +1,20 @@
-axicli @ https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip
-certifi
-charset-normalizer
-colorama
-commonmark
-future
-idna
-ink-extensions
-lxml
-plotink
-Pygments
-pyserial
-requests
-rich
-urllib3
+axicli==3.2.1
+axidrawinternal @ file:///C:/Users/htwig/AppData/Local/Temp/pip-req-build-hnuy_ll3/prebuilt_dependencies/axidrawinternal-3.2.1-py2.py3-none-any.whl
+black==22.3.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.1.2
+colorama==0.4.4
+future==0.18.2
+idna==3.3
+ink-extensions==1.1.0
+lxml==4.8.0
+mypy-extensions==0.4.3
+pathspec==0.9.0
+platformdirs==2.5.1
+plotink==1.5.0
+pyserial==3.5
+PyYAML==6.0
+requests==2.27.1
+tomli==2.0.1
+urllib3==1.26.9
