@@ -40,7 +40,7 @@ def burst(axi, num_x, num_y, length, scale):
 def hump(axi, resolution, height):
     drawn_paths = 0
     for x in range(resolution):
-        axi.lineto(x, height * (x resolution / 2)))
+        axi.lineto(x, height * (resolution / 2))
 
 
 if __name__ == "__main__":
